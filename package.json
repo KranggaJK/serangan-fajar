@@ -1,0 +1,24 @@
+{
+  "name": "serangan-fajar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KranggaJK/serangan-fajar.git"
+  },
+  "author": "kranggajk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KranggaJK/serangan-fajar/issues"
+  },
+  "homepage": "https://github.com/KranggaJK/serangan-fajar#readme",
+  "dependencies": {
+    "hasilkan-uang": "^1.0.0",
+    "krandizkeren": "^1.0.0",
+    "logika-huruf": "^1.0.0"
+  }
+}
